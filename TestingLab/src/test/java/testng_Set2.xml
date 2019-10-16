@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="FirstLabTesting_secondSet" parallel="methods" thread-count="3">
+    <test name="testing">
+        <groups>
+            <run>
+                <include name ="operTests"/>
+                <include name ="ioTests"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="TextSplitterTesting_testng" />
+            <class name="CounterTesting_testng" />
+        </classes>
+    </test>
+</suite>

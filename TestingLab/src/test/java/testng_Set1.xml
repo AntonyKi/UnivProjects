@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="FirstLabTesting">
+    <test name="testing">
+        <groups>
+            <run>
+                <include name ="operTests"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="TextSplitterTesting_testng" />
+            <class name="CounterTesting_testng" />
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestingLab.iml" filepath="$PROJECT_DIR$/.idea/modules/TestingLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestingLab_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TestingLab_main.iml" group="TestingLab" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestingLab_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TestingLab_test.iml" group="TestingLab" />
+    </modules>
+  </component>
+</project>
